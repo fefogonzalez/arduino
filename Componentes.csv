@@ -1,6 +1,0 @@
-Nombre,Cantidad,Componente
-"U1",1," Arduino Uno R3"
-"R1, R2, R3",3,"220 Ω Resistencia"
-"D1",1,"Rojo LED"
-"D2",1,"Amarillo LED"
-"D3",1,"Verde LED"
