@@ -9,4 +9,5 @@ Dentro de cada proyecto se encontraran 3 archivos:
   - *.csv: Lista de componentes necesarios.
 
 Historial de proyectos publicados
--  Semaforo
+- Semaforo: Encender leds en la secuencia Rojo, Amarillo, Verde.
+- Dia_Noche: Encender un led verde (dia) o rojo (noche) segun el nivel de luminosidad.
