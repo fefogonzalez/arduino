@@ -11,3 +11,13 @@ Dentro de cada proyecto se encontraran 3 archivos:
 Historial de proyectos publicados
 - Semaforo: Encender leds en la secuencia Rojo, Amarillo, Verde.
 - Dia_Noche: Encender un led verde (dia) o rojo (noche) segun el nivel de luminosidad.
+
+
+
+*****
+Prender un led
+Semaforo
+Prender un led con un botón y otro con otro botón
+Prender y apagar el mismo led con un solo botón
+Prender un led con un sensor de luz
+Prender un led con un potenciometro
