@@ -1,1 +1,5 @@
-
+Nombre,Cantidad,Componente
+"Rpot1",1,"250 kΩ,  Potenciómetro"
+"U1",1," Arduino Uno R3"
+"D1",1,"Rojo LED"
+"R1",1,"220 Ω Resistencia"
