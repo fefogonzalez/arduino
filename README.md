@@ -11,7 +11,7 @@ Dentro de cada proyecto se encontraran 3 archivos:
 Historial de proyectos publicados
 - Semaforo: Encender leds en la secuencia Rojo, Amarillo, Verde.
 - Dia_Noche: Encender un led verde (dia) o rojo (noche) segun el nivel de luminosidad.
-- [Led_Potenciometro] (https://github.com/fefogonzalez/arduino/tree/master/Led_Potenciometro): Encender un led y modificar la intencidad del brillo mediante un potenciometro
+- [Led_Potenciometro](https://github.com/fefogonzalez/arduino/tree/master/Led_Potenciometro): Encender un led y modificar la intencidad del brillo mediante un potenciometro
 
 [GitHub](http://github.com)
 
