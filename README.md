@@ -14,10 +14,11 @@ Historial de proyectos publicados
 
 
 
-*****
-Prender un led
-Semaforo
-Prender un led con un botón y otro con otro botón
-Prender y apagar el mismo led con un solo botón
-Prender un led con un sensor de luz
-Prender un led con un potenciometro
+---Prender un led
+---Semaforo
+---Prender un led con un botón y otro con otro botón
+---Prender y apagar el mismo led con un solo botón
+---Prender un led con un sensor de luz
+---Prender un led con un potenciometro
+
+---Sensor de distancia
