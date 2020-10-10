@@ -25,4 +25,6 @@ Historial de proyectos publicados
 
 ---[Sensor_Infra_v3] --> Sumarle un alerta por LCD (con fecha y hora)
 
+--- Con un led RGB, encender con 3 botones distintos
+
 ---Sensor de distancia
