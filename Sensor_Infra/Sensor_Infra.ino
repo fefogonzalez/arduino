@@ -2,11 +2,9 @@
 
 const int SensorProximidad = 8; // Se conecta el sensor de proximidad al pin 8
 const int Led = 2; // Se conecta el led en al pin 2
-const int Buzzer = 3; // Se conecta el Buzzer al pin 3
 
 void setup() {                
   pinMode(Led, OUTPUT);
-  pinMode(Buzzer, OUTPUT);
   pinMode(SensorProximidad, INPUT);
 }
 
@@ -14,13 +12,11 @@ void loop() {
   
   if(digitalRead(SensorProximidad)==HIGH)      // Se verifica si hay algo cerca al sensor de Proximidad
   {
-    digitalWrite(Led, LOW);
-    digitalWrite(Buzzer, LOW); // Si no hay nada cerca, el led y el buzzer se mantienen apagados
+    digitalWrite(Led, LOW);  // Si no se detecta movimiento, el led permanecera apagado
   }
   else
   {
-    digitalWrite(Led, HIGH);    // Si hay algo cerca, el led y el buzzer alertan
-    digitalWrite(Buzzer, HIGH);
+    digitalWrite(Led, HIGH);    // Si se detecta movimiento, se enciende un led a modo de alerta
   }
   delay(100);             
 }
