@@ -23,4 +23,6 @@ Historial de proyectos publicados
 (5)Prender un led con un sensor de luz
 (6*)Prender un led con un potenciometro
 
+---[Sensor_Infra_v3] --> Sumarle un alerta por LCD (con fecha y hora)
+
 ---Sensor de distancia
