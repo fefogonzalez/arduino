@@ -11,8 +11,9 @@ Dentro de cada proyecto se encontraran 3 archivos:
 Historial de proyectos publicados
 - [Semaforo](https://github.com/fefogonzalez/arduino/tree/master/Semaforo): Encender leds en la secuencia simulando un semaforo (Rojo, Amarillo, Verde).
 - Dia_Noche: Encender un led verde (dia) o rojo (noche) segun el nivel de luminosidad.
-- [Led_Potenciometro](https://github.com/fefogonzalez/arduino/tree/master/Led_Potenciometro): Encender un led y modificar la intencidad del brillo mediante un potenciometro
-
+- [Led_Potenciometro](https://github.com/fefogonzalez/arduino/tree/master/Led_Potenciometro): Encender un led y modificar la intencidad del brillo mediante un potenciometro.
+- [Sensor_Infra](Https://github.com/fefogonzalez/arduino/tree/master/Sensor_Infra): Mediante un sensor de proximidad, en caso de detectar movimiento se emite una alerta luminica.
+- [Sensor_Infra_v2](Https://github.com/fefogonzalez/arduino/tree/master/Sensor_Infra_v2): Al proyecto anterior se le agrega una alerta sonora.
 
 
 (1)Prender un led
