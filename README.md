@@ -16,9 +16,7 @@ Historial de proyectos publicados
 - [Sensor_Infra_v2](Https://github.com/fefogonzalez/arduino/tree/master/Sensor_Infra_v2): Al proyecto anterior se le agrega una alerta sonora.
 - [Sensor_Infra_v3](Https://github.com/fefogonzalez/arduino/tree/master/Sensor_Infra_v3): Al proyecto anterior se le agrega una alerta mediante un display LCD.
 - [Sensor_Infra_v4](Https://github.com/fefogonzalez/arduino/tree/master/Sensor_Infra_v4): Al proyecto anterior se le agrega un servo, lo cual simula el paso a nivel de un tren. Al pasar un tren por el sensor de proximidad, se emite alertas sonoras y limunicas. Por otro lado, en el display LCD se observa un mensaje de aviso que se aproxima un tren y mediante el servomotor se ordena bajar la barrera.
-- Receptor Infrarojo (IR): Para utilizar este componente lo separaremos en dos partes:
-      [Configuracion]
-      [Uso]
+- [Receptor Infrarojo (IR)](https://github.com/fefogonzalez/arduino/tree/master/Receptor_IR): Para utilizar este componente lo separaremos en dos partes, la Configuracion (Configuracion.ino) y el uso (Uso.ino). En ambos casos, el diagrama de conexion y los componentes a utilizar son los mismos.
 
 
 
