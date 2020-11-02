@@ -1,5 +1,5 @@
 /*
- Con los codigos obtenidos en el codigo anterior, tomaremos distintas acciones en nuestro programa.
+ Con los codigos obtenidos en https://github.com/fefogonzalez/arduino/edit/master/Receptor_IR/Configuracion.ino, tomaremos distintas acciones en nuestro programa.
  En nuestro ejemplo usaremos los Botones 1, 2 y 3 del control remoto para encender un led Rojo, Verde o Azul respecticamente
 */
 
