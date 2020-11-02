@@ -44,5 +44,5 @@ void loop() {
  * *    FF6897
  * #    FFB04F
  * 
- * En el siguiente ejemplo, usaremos estos codigos para tomar alguna accion en nuestro programa
+ * Para ver un ejemplo practico de uso, recomiendo ver https://github.com/fefogonzalez/arduino/blob/master/Receptor_IR/Uso.ino
  */
